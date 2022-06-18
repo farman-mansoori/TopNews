@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374366862047",
+    "project_id": "topnews-35023",
+    "storage_bucket": "topnews-35023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374366862047:android:4536280e216d82d489476a",
+        "android_client_info": {
+          "package_name": "com.fstudio.topnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374366862047-ttns5hpp814skdsvq7k7h1leeo05jrs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_YM7QvPGtKfWFgVbcDjNtT6tGcTA3P60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374366862047-ttns5hpp814skdsvq7k7h1leeo05jrs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

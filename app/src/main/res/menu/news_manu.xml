@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/blockAds"
+        android:title="BlockADS"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_ad_block"/>
+
+    <item android:id="@+id/rate"
+        android:title="Country"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_star_rate_24"/>
+
+    <item
+        android:id="@+id/moreapps"
+        android:title="More Apps" />
+
+    <item
+        android:id="@+id/shere"
+        android:title="Shere" />
+
+    <item
+        android:id="@+id/exit"
+        android:title="Exit" />
+
+</menu>

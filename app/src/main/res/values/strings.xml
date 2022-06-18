@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TopNews</string>
+
+    <!--ads-->
+    <string name="appId">ca-app-pub-3161132372295703~4764546751</string>
+    <string name="nativeAd">ca-app-pub-3161132372295703/5576717937</string>
+    <string name="appOpenAd">ca-app-pub-3161132372295703/4072064570</string>
+
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="made_with_message">Made with \u2665 from India</string>
+    <string name="email_title">Email</string>
+    <string name="company_title">Company</string>
+    <string name="copyright_message">Copyright \u00a9 2021, F-Studio. All rights reserved.</string>
+    <string name="email" translatable="false">farman.mansoori.ff@gmail.com</string>
+    <string name="company_name" translatable="false">F-Studio.</string>
+
+</resources>
