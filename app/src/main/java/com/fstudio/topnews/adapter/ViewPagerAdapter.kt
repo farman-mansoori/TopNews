@@ -5,8 +5,7 @@ import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import com.fstudio.topnews.fragments.*
 
-class ViewPagerAdapter(fragmentActivity: FragmentActivity) :
-    FragmentStateAdapter(fragmentActivity) {
+class ViewPagerAdapter(fragmentActivity: FragmentActivity) : FragmentStateAdapter(fragmentActivity) {
     var title =
         arrayOf("All", "Business", "Science", "Technology", "Entertainment", "Health", "Sports")
 
